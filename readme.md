@@ -1,8 +1,18 @@
-# HTML & CSS | Tweet clone
+![Ironhack Logo](https://i.imgur.com/1QgrNNw.png)
+
+# HTML & CSS | Tweet clone
+
+## Learning Goals
+
+In this Module Exercise we will apply all the concepts we have been learning:
+
+- Create a stylesheet for our HTML page.
+- Change the HTML styles through CSS selectors and rules.
+- Select HTML elements through type, class or id.
+- Use the box model structure and change its properties.
+- Control the HTML layout and change the position of a block or inline element.
 
 ## Introduction
-
-We have learned a lot of new stuff about HTML and CSS. Now, we will work with an small example to practice all what we learned. We are going to clone a tweet.
 
 Jack Dorsey created [Twitter](https://www.twitter.com) in 2006. Once it was ready to launch, he created his twitter account and published the following:
 
@@ -10,19 +20,22 @@ Jack Dorsey created [Twitter](https://www.twitter.com) in 2006. Once it was read
 
 It was March, 21st. **We will clone this first tweet from Jack's account to learn HTML and CSS :)**
 
-## Exercise
+## Requirements
 
-### Requirements
+- Go to the [CSS module exercise repository](https://github.com/ironhack/lab-html-module-exercise).
+- Click on the button "Clone or download" and a window will appear:
 
-- [Fork this repo](https://guides.github.com/activities/forking/).
-- Clone this repo into your `~/prework/code/labs` folder.
+![](https://s3-eu-west-1.amazonaws.com/ih-materials/uploads/upload_3cd92839c499fe04b53a5bbee5ce2dfe.png)
+
+- Click the button "Download as zip"
+
 - Make sure you use:
 	- Block elements for the main container of the tweet.
 	- Inline elements for the bottom icons: reply, retweet, and favorites.
 	- Use the images in the `img` folder to complete the designs.
 	- Use the following colors:
 
-	```
+  ```
 	body
 	- background:        rgb(244, 248, 249)
 
@@ -35,31 +48,32 @@ It was March, 21st. **We will clone this first tweet from Jack's account to lear
 	- date:              rgb(101, 116, 127)
 	- bottom text color: rgb(105, 120, 130)
 	- follow button:     rgb(85, 172, 238)
-	```
+  ```
 
 	- Finally, the font is "Helvetica".
 
-### Submission
+## Exercise
 
-- Upon completion, run the following commands:
+We have learned a lot of new stuff about HTML and CSS. Now, we will work with an small example to practice all what we learned. We are going to clone a tweet.
 
-```
-git add .
-git commit -m"done"
-git push origin master
-```
+Please, find a screenshot of the expected results below:
 
-- Navigate to your repo and [create a Pull Request](https://help.github.com/articles/creating-a-pull-request/).
+![](https://i.imgur.com/RlfYX9s.png)
 
 ### Starter Code
 
 The starter code contains all the files, images and basic setup to replicate the first tweet of the story.
 
-### Deliverable
+**Hint: Structure your blocks**
 
-Please, find a screenshot of the expected results below:
+When we structure a new HTML page, we need to forget about the details at the beginning:
 
-![](https://i.imgur.com/RlfYX9s.png)
+![](https://s3-eu-west-1.amazonaws.com/ih-materials/uploads/upload_bff1b8530666f243c035e13c6ba99478.png)
+
+
+Start creating the biggest blocks. If it helps you, give them a different background or a solid `border` property, so you can see the real dimensions of each.
+
+Once all the blocks have the right dimensions, start creating the blocks inside that blocks. Finally, create the inline elements like texts or images.
 
 ## Extra Resources
 
