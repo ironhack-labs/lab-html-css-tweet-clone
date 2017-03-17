@@ -68,7 +68,7 @@ The starter code contains all the files, images and basic setup to replicate the
 
 When we structure a new HTML page, we need to forget about the details at the beginning:
 
-![tweetclone](https://s3-eu-west-1.amazonaws.com/ih-materials/uploads/upload_bff1b8530666f243c035e13c6ba99478.png)
+![](https://s3-eu-west-1.amazonaws.com/ih-materials/uploads/upload_bff1b8530666f243c035e13c6ba99478.png)
 
 
 Start creating the biggest blocks. If it helps you, give them a different background or a solid `border` property, so you can see the real dimensions of each.
