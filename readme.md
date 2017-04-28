@@ -25,7 +25,7 @@ It was March, 21st. **We will clone this first tweet from Jack's account to lear
 - Go to the [CSS module exercise repository](https://github.com/ironhack-labs/lab-html-css-tweet-clone).
 - Click on the button "Clone or download" and a window will appear:
 
-![](https://s3-eu-west-1.amazonaws.com/ih-materials/uploads/upload_3cd92839c499fe04b53a5bbee5ce2dfe.png)
+![](https://s3-eu-west-1.amazonaws.com/ih-materials/uploads/upload_7a9dddc55bc1db6400a021dfe6e10978.png)
 
 - Click the button "Download as zip"
 
